@@ -6,7 +6,7 @@ FutureEats é uma aplicação Full-Stack inspirada no aplicativo UberEats, uma p
 
 # 🔗 Link do Site
 
-A versão deployada da aplicação pode ser encontrada aqui [FUTUREEATS](http://futureeats.adeirmaia.surge.sh/)
+A versão deployada da aplicação pode ser encontrada aqui [FUTUREEATS](front-end-future-eats.vercel.app)
 
 # 🗂 Repositórios
 
